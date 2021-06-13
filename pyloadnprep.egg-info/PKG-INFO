@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: pyloadnprep
+Version: 0.0.1
+Summary: A simple preprocessing package
+Home-page: https://github.com/terri1102/pyloadnprep
+Author: terri1102
+Author-email: terricodes@gmail.com
+License: UNKNOWN
+Description: # pyloadnprep
+        
+        주가 데이터를 불러오고, 전처리하는 패키지입니다.
+        
+        ## 설치
+        ```bash
+        pip install pyloadnprep
+        ```
+        
+        ## 데이터 불러오기
+        
+        ### 1. 거시 지표
+        
+        ### 2. 종목별 주가 데이터
+        
+        ### 3. 종목별 기본 지표
+        
+        ## 전처리
+        
+        ### 1. 종목별 기술 지표
+        
+        ### 2. Fourier Transform
+        
+        
+        
+        ### 통계적 타당성 검증
+        (추후 추가)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
