@@ -1,0 +1,76 @@
+absl-py==0.12.0
+alembic==1.6.5
+astroid @ file:///C:/ci/astroid_1613501047216/work
+astunparse==1.6.3
+cachetools==4.2.2
+certifi==2021.5.30
+chardet==3.0.4
+click==8.0.1
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cycler==0.10.0
+DateTime==4.3
+Deprecated==1.2.12
+Flask==2.0.1
+Flask-Migrate==3.0.1
+Flask-SQLAlchemy==2.5.1
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.30.2
+google-auth-oauthlib==0.4.4
+google-pasta==0.2.0
+greenlet==1.1.0
+grpcio==1.34.1
+h5py==3.1.0
+idna==2.6
+isort @ file:///tmp/build/80754af9/isort_1616355431277/work
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529307648/work
+Mako==1.1.4
+Markdown==3.3.4
+MarkupSafe==2.0.1
+matplotlib==3.4.2
+mccabe==0.6.1
+mplfinance==0.12.7a17
+numpy==1.19.5
+oauthlib==3.1.1
+opt-einsum==3.3.0
+pandas==1.2.4
+Pillow==8.2.0
+protobuf==3.17.3
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pykrx==1.0.14
+pylint @ file:///C:/ci/pylint_1617136058775/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+python-editor==1.0.4
+pytz==2021.1
+requests==2.18.4
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scikit-learn==0.24.2
+scipy==1.6.3
+six @ file:///C:/ci/six_1605187374963/work
+sklearn==0.0
+SQLAlchemy==1.4.17
+tensorboard==2.5.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+termcolor==1.1.0
+threadpoolctl==2.1.0
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typing-extensions==3.7.4.3
+urllib3==1.22
+Werkzeug==2.0.1
+wincertstore==0.2
+wrapt==1.12.1
+xgboost==1.4.2
+xlrd==2.0.1
+zope.interface==5.4.0
