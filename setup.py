@@ -5,7 +5,7 @@ with open("README.md", "r",encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pyloadnprep", 
-    version="0.0.1",
+    version="0.0.3",
     author="terri1102",
     author_email="terricodes@gmail.com",
     description="A simple preprocessing package",

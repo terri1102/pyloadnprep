@@ -2,9 +2,14 @@
 
 주가 데이터를 불러오고, 전처리하는 패키지입니다.
 
+
 ## 설치
 ```bash
 pip install pyloadnprep
+```
+## 종목코드 확인
+```bash
+from pyloadnprep.preprocessing import get_stockcode
 ```
 
 ## 데이터 불러오기
