@@ -99,7 +99,7 @@ def technical_indices(df):
 
 #2) fundamental analysis : df2
 #위의 technical_indices로 나온 df와 별개로 만들기
-def fundamental_analysis(ticker, start_date, end_date):
+def fundamental_analysis(ticker, start_date='20000101', end_date=today):
     df = stock.get_market_fundamental_by_date(fromdate=start_date, todate=end_date, ticker=ticker)
     df = df.reset_index()
     return df
