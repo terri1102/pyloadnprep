@@ -5,7 +5,7 @@ with open("README.md", "r",encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pyloadnprep", 
-    version="0.0.3",
+    version="0.0.4",
     author="terri1102",
     author_email="terricodes@gmail.com",
     description="A simple preprocessing package",
@@ -18,5 +18,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    install_requires=[
+          'pandas', 'numpy','mplfinance','pykrx'
+      ],
     python_requires='>=3.6',
 )
