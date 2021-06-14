@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyloadnprep
-Version: 0.0.1
+Version: 0.0.3
 Summary: A simple preprocessing package
 Home-page: https://github.com/terri1102/pyloadnprep
 Author: terri1102
@@ -10,9 +10,14 @@ Description: # pyloadnprep
         
         주가 데이터를 불러오고, 전처리하는 패키지입니다.
         
+        
         ## 설치
         ```bash
         pip install pyloadnprep
+        ```
+        ## 종목코드 확인
+        ```bash
+        from pyloadnprep.preprocessing import get_stockcode
         ```
         
         ## 데이터 불러오기
