@@ -48,6 +48,3 @@ technical_indices(df)
 ### 2. Fourier Transform
 
 
-
-### 통계적 타당성 검증
-(추후 추가)
