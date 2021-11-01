@@ -45,6 +45,6 @@ technical_indices(df)
 ```
 종목별 주가 데이터를 기술 지표들로 변환하여 데이터 프레임으로 반환합니다. 현재 지원하는 기술 지표들은 sma5, ema5, ema20, disparity, Slow_k, Slow_d, MACD, RSI, Diff입니다. 	
 
-### 2. Fourier Transform
+
 
 
